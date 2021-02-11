@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id ": 1,
+      "name": "bread",
+      "price": 20,
+      "category": "bakery"
+    },
+    {
+      "id ": 1,
+      "name": "bread",
+      "price": 20,
+      "category": "bakery"
+    },
+    {
+      "id ": 1,
+      "name": "bread",
+      "price": 20,
+      "category": "bakery"
+    },
+    {
+      "id ": 1,
+      "name": "bread",
+      "price": 20,
+      "category": "bakery"
+    },
+    {
+      "id ": 1,
+      "name": "bread",
+      "price": 20,
+      "category": "bakery"
+    },
+    {
+      "id ": 1,
+      "name": "bread",
+      "price": 20,
+      "category": "bakery"
+    }
+  ]
+}
